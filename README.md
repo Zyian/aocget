@@ -1,4 +1,4 @@
-# Advent of Code Get (aocget)
+# Advent of Code Get (aocget) [![Go Reference](https://pkg.go.dev/badge/github.com/Zyian/aocget.svg)](https://pkg.go.dev/github.com/Zyian/aocget)
 A small lib to download your puzzle input for a given day.
 
 Uses your session token to authenticate to obtain your personalized input.
